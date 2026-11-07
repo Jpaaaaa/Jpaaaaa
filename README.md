@@ -1,4 +1,4 @@
-# Hi, I'm Hama 👋
+# Hi, I'm Mohammed Ahmed
 
 **Full-Stack Developer · AI-assisted engineering (Claude Code, MCP) · Network Engineer (CCNA)**
 Based in Kurdistan, Iraq · Founder of **Amaan Technology**
