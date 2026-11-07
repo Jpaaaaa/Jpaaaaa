@@ -7,7 +7,7 @@ I build and ship real products end-to-end, from the database and backend to the 
 
 ---
 
-### 🚀 What I've built
+### What I've built
 
 | Product | What it does | Stack |
 |---|---|---|
@@ -19,12 +19,12 @@ I build and ship real products end-to-end, from the database and backend to the 
 
 > Commercial products are kept in private repositories. Happy to walk through the code and architecture on a call.
 
-### 🧩 Open source
+### Open source
 
 - [**novo**](https://github.com/Jpaaaaa/novo): mobile-first digital restaurant menu with an admin panel (Next.js, TypeScript, Tailwind, Framer Motion)
 - [**hrat**](https://github.com/Jpaaaaa/hrat): offline attendance app that syncs ZKTeco biometric devices over TCP (Electron, SQLite)
 
-### 🛠️ Tech I use
+### Tech I use
 
 **Languages:** TypeScript, JavaScript, Python, SQL
 **Backend:** Node.js, NestJS, FastAPI, Prisma, PostgreSQL, SQLite
@@ -32,6 +32,6 @@ I build and ship real products end-to-end, from the database and backend to the 
 **AI tooling:** Claude Code, MCP (Model Context Protocol), AI-assisted workflows
 **Infra:** Linux, Docker, VPS deployment, MikroTik, Cisco networking (CCNA)
 
-### 📫 Contact
+### Contact
 
 [LinkedIn](https://www.linkedin.com/in/hama-a-mohamad-528779345)
